@@ -1,13 +1,13 @@
 {
-  "Author": "your name here",
-  "Name": "Relic Tracker",
-  "Punchline": "Assists with Tracking Progress of Relic Weapons and Tools",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
-  "InternalName": "RelicTracker",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "sample",
-    "plugin",
-    "goats"
-  ]
+	"Author": "Leylia Blueriver",
+	"Name": "Relic Tracker",
+	"Punchline": "Assists with Tracking Progress of Relic Weapons and Tools",
+	"Description": "Helps with tracking of Relics, primarily DoW/DoM.  /relics --> Opens up the Relic Menu",
+	"InternalName": "RelicTracker",
+	"ApplicableVersion": "any",
+	"Tags": [
+		"relic",
+		"relics",
+		"plugin"
+	]
 }

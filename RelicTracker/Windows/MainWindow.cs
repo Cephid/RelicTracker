@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Numerics;
 using Dalamud.Interface.Windowing;
 using ImGuiNET;
@@ -12,7 +12,7 @@ public class MainWindow : Window, IDisposable
     private Plugin Plugin;
 
     public MainWindow(Plugin plugin, TextureWrap goatImage) : base(
-        "My Amazing Window", ImGuiWindowFlags.NoScrollbar | ImGuiWindowFlags.NoScrollWithMouse)
+        "Relic Tracker", ImGuiWindowFlags.NoScrollbar | ImGuiWindowFlags.NoScrollWithMouse)
     {
         this.SizeConstraints = new WindowSizeConstraints
         {
@@ -40,7 +40,7 @@ public class MainWindow : Window, IDisposable
 
         ImGui.Spacing();
 
-        ImGui.Text("Have a goat:");
+        ImGui.Text("I'm robot 1X, how can I help?");
         ImGui.Indent(55);
         ImGui.Image(this.GoatImage.ImGuiHandle, new Vector2(this.GoatImage.Width, this.GoatImage.Height));
         ImGui.Unindent(55);

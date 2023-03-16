@@ -1,13 +1,14 @@
 {
-	"Author": "Leylia Blueriver",
-	"Name": "Relic Tracker",
-	"Punchline": "Assists with Tracking Progress of Relic Weapons and Tools",
-	"Description": "Helps with tracking of Relics, primarily DoW/DoM.  /relics --> Opens up the Relic Menu",
-	"InternalName": "RelicTracker",
-	"ApplicableVersion": "any",
-	"Tags": [
-		"relic",
-		"relics",
-		"plugin"
-	]
+    "Author": "Leylia Blueriver",
+    "Name": "Relic Tracker",
+    "Punchline": "Assists with Tracking Progress of Relic Weapons and Tools",
+    "Description": "Helps with tracking of Relics, primarily DoW/DoM.  /relics --> Opens up the Relic Menu",
+    "InternalName": "RelicTracker",
+    "ApplicableVersion": "any",
+    "IconUrl": "https://raw.githubusercontent.com/Cephid/RelicTracker/initialRenames/RelicTracker/icon.png",
+    "Tags": [
+        "relic",
+        "relics",
+        "plugin"
+    ]
 }
